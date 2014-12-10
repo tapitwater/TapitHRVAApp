@@ -1,0 +1,41 @@
+{
+    "Success":true,
+    "Data":[
+            {
+            "id":1,
+            "name":"Neherunager",
+            "address":"6761 Baltic Avenue East Fairfax, VA",
+            "distance":0.8,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"Chilled and Filtered",
+            "note":"Reusable water bottles only please",
+            "businessPhone":"203-555-1111",
+            "latitude":23.036,
+            "longitude":72.566
+            },
+            {
+            "id":2,
+            "name":"Satellite",
+            "address":"1212 BalticY Avenue East Fairfax, VA",
+            "distance":0.9,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"Chilled and Filtered",
+            "note":"Reusable water bottles only please",
+            "businessPhone":"203-555-2222",
+            "latitude":23.033,
+            "longitude":72.5167
+            },
+            {
+            "id":3,
+            "name":"Iscon",
+            "address":"1212 BalticY Avenue East Fairfax, VA",
+            "distance":0.7,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"Chilled and Filtered",
+            "note":"Reusable water bottles only please",
+            "businessPhone":"203-555-3333",
+            "latitude":23.031,
+            "longitude":72.4764
+            }
+            ]
+}

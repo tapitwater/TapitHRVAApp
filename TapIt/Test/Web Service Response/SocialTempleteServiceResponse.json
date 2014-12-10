@@ -1,0 +1,13 @@
+{
+    "Success":true,
+    "Data":[
+            {
+            "media":"Facebook",
+            "templet":"Facebook xyz Templet"
+            },
+            {
+            "media":"Tweeter",
+            "templet":"Tweeter *xyz* Templet"
+            }
+            ]
+}

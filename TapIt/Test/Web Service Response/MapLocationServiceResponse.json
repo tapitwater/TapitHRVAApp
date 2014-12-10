@@ -1,0 +1,109 @@
+{
+    "Success":true,
+    "Data":[
+            {
+            "id":1,
+            "icontype": 0,
+            "name":"Neherunager",
+            "address":"6761 Baltic Avenue East Fairfax, VA",
+            "distance":0.8,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"",
+            "note":"",
+            "businessPhone":"203-555-1111",
+            "lat":23.030000,
+            "lon":72.610000
+            },
+            {
+            "id":2,
+            "icontype": 1,
+            "name":"Satellite",
+            "address":"1212 BalticY Avenue East Fairfax, VA",
+            "distance":0.9,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"2 Chilled and Filtered test dshgfhgkfskgfshkghkfshgkhfskh kshkghk skdfhgk fuyguy isiid sidi idigyiuygi isyfiuguy iuygiuyisgy iusyfy iuygi  yiyigyisygiygiy  ifyigyiugy u yisugyi Chilled and Filtered test dshgfhgkfskgfshkghkfshgkhfskh kshkghk skdfhgk fuyguy isiid sidi idigyiuygi isyfiuguy iuygiuyisgy iusyfy iuygi  yiyigyisygiygiy  ifyigyiugy u yisugy Chilled and Filtered test dshgfhgkfskgfshkghkfshgkhfskh kshkghk skdfhgk fuyguy isiid sidi idigyiuygi isyfiuguy iuygiuyisgy iusyfy iuygi  yiyigyisygiygiy  ifyigyiugy u yisugy Chilled and Filtered test dshgfhgkfskgfshkghkfshgkhfskh kshkghk skdfhgk fuyguy isiid sidi idigyiuygi isyfiuguy iuygiuyisgy iusyf",
+            "note":"jdhsgfjg jgjhgsjhg khfhg khgkhk kfhgkk h fhgkjhfkghk fkfhgk jh khfjghkf kfd khfk fkkg",
+            "businessPhone":"203-555-2222",
+            "lat":23.033,
+            "lon":72.5167
+            },
+            {
+            "id":3,
+            "icontype": 0,
+            "name":"Iscon",
+            "address":"1212 BalticY Avenue East Fairfax, VA",
+            "distance":0.7,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"3 Chilled and Filtered",
+            "note":"3 Reusable water bottles only please fguyigtf ywtgfiuy geiyfg iiygrwf iegfiyifi ",
+            "businessPhone":"203-555-3333",
+            "lat":23.031,
+            "lon":72.4764
+            },
+            {
+            "id":4,
+            "icontype": 1,
+            "name":"Paldi",
+            "address":"1212 BalticY Avenue East Fairfax, VA",
+            "distance":0.6,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"Chilled and Filtered",
+            "note":"",
+            "businessPhone":"203-555-4444",
+            "lat":23.012,
+            "lon":72.5558
+            },
+            {
+            "id":5,
+            "icontype": 0,
+            "name":"Income Tax",
+            "address":"1212 BalticY Avenue East Fairfax, VA",
+            "distance":0.5,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"Chilled and Filtered",
+            "note":"Reusable water bottles only please",
+            "businessPhone":"203-555-5555",
+            "lat":23.029500,
+            "lon":72.610000
+            },
+            {
+            "id":6,
+            "icontype": 1,
+            "name":"Vadaj",
+            "address":"1212 BalticY Avenue East Fairfax, VA",
+            "distance":0.7,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"Chilled and Filtered",
+            "note":"Reusable water bottles only please",
+            "businessPhone":"203-555-6666",
+            "lat":23.029500,
+            "lon":72.610050
+            },
+            {
+            "id":7,
+            "icontype": 0,
+            "name":"Naroda",
+            "address":"1212 BalticY Avenue East Fairfax, VA",
+            "distance":0.9,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"Chilled and Filtered",
+            "note":"Reusable water bottles only please",
+            "businessPhone":"203-555-7777",
+            "lat":23.0690,
+            "lon":72.6801
+            },
+            {
+            "id":8,
+            "name":"Narol",
+            "icontype": 1,
+            "address":"1212 BalticY Avenue East Fairfax, VA",
+            "distance":1.1,
+            "waterAccessMode":"Please ask at counter",
+            "waterType":"Chilled and Filtered",
+            "note":"Reusable water bottles only please",
+            "businessPhone":"203-555-8888",
+            "lat":22.95456,
+            "lon":72.5855
+            }
+            ]
+}
